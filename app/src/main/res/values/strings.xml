@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AndroidPlay</string>
+    <string name="button">Fetch</string>
+    <string name="GET" />
+    <string name="get">GET</string>
+    <string name="post">POST</string>
+    <string name="json">Testing JSON routes</string>
+    <string name="no_button_selected">Please select method type</string>
+    <string name="malformed_URL">URL seems to be malformed!</string>
+    <string name="ioexception">Could not read from input stream.</string>
+    <string name="ioexception2">Could not close input stream.</string>
+    <string name="problem_reading">Could not read from stream.</string>
+    <string name="is_json">Yes!</string>
+    <string name="is_it_json">JSON?</string>
+    <string name="not_json">Nope.</string>
+    <string name="response">Response</string>
+    <string name="no_network">No connection.</string>
+    <string name="already_running">Already running. Please wait.</string>
+</resources>
